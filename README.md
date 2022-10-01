@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevinStewartCodes
-- 👀 I’m interested in ... coding in Python 3, Java, and computer building, programming, and design.
-- 🌱 I’m currently learning ... Coding for Python 3, Java, GUI support building
+- Here enclosed in my repository is a sampling of code modified/improved/created by me. I have a passion for computers, technology, languages, and software. 
+- 🌱 I’m currently working on my certifications in coding for Python 3, Java, GUI support building
 - 📫 How to reach me ...devinitschool@gmail.com
 
 <!---
