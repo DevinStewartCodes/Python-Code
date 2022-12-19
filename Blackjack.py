@@ -3,7 +3,9 @@
     I have modified to play with 'old west' rules
     and changed to mimic playing in a saloon on a river
     town where you might be waiting for the big
-    tournament aboard a river boat
+    tournament aboard a river boat. I also added the ability to determine
+    how much money you are bringingt to the table, as well as the other player's
+    responses based on that number.
 """
 
 import random, sys
@@ -14,7 +16,6 @@ HEARTS   = chr(9829) # Character 9829 is '♥'.
 DIAMONDS = chr(9830) # Character 9830 is '♦'.
 SPADES   = chr(9824) # Character 9824 is '♠'.
 CLUBS    = chr(9827) # Character 9827 is '♣'.
-# (A list of chr codes is at https://inventwithpython.com/charactermap)
 BACKSIDE = 'backside'
 
 
