@@ -1,3 +1,5 @@
+##Code used here is example used with permission. Final product exclusive to launch with Stewart Flags and Such through NDA. All rights reserved.
+
 #import
 import math
 #Calculate cost of wood
